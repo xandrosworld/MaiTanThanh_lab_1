@@ -1,0 +1,23 @@
+# ========================
+# Bảo mật — KHÔNG push lên Git
+# ========================
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Logs
+*.log
